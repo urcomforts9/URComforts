@@ -7,7 +7,7 @@ export default function About() {
         <div>
           <h2>About UR Groups</h2>
           <p className="lead">
-            UR Groups runs three stays in Jayanagar, Bengaluru. We keep things simple: clean
+            our Groups runs three stays in Jayanagar, Bengaluru. We keep things simple: clean
             rooms, fair prices and a team that is easy to reach.
           </p>
         </div>
